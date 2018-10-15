@@ -7,7 +7,7 @@ export default StyleSheet.create({
     paddingBottom: Metrics.baseMargin
   },
   logo: {
-    marginTop: Metrics.doubleSection,
+    marginTop: 10,
     height: Metrics.images.logo,
     width: Metrics.images.logo,
     resizeMode: 'contain'

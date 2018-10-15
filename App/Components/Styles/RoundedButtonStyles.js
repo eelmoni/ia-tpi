@@ -5,13 +5,15 @@ export default StyleSheet.create({
   button: {
     height: 45,
     borderRadius: 5,
+    borderWidth: 1,
+    borderColor: Colors.text,
     marginHorizontal: Metrics.section,
     marginVertical: Metrics.baseMargin,
-    backgroundColor: Colors.fire,
+    backgroundColor: '#FFF',
     justifyContent: 'center'
   },
   buttonText: {
-    color: Colors.snow,
+    color: Colors.text,
     textAlign: 'center',
     fontWeight: 'bold',
     fontSize: Fonts.size.medium,
