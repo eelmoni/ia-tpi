@@ -28,8 +28,8 @@ export default class LaunchScreen extends Component {
             </Text>
             
             <Text style={{ fontWeight: 'bold' }}>INTEGRANTES:</Text>
-            <Text> - Auquer, Marcelo</Text>
-            <Text>57646 - Dellarosa, Enzo</Text>
+            <Text>57287 - Auquer, Marcelo</Text>
+            <Text>57646 - Dellarossa, Enzo</Text>
             <Text>53950 - Elmoni, Emmanuel</Text>
             <Text>54493 - Soaje, Juan</Text>
             <Text>58447 - Villalón, Darío</Text>
